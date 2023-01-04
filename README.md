@@ -1,11 +1,15 @@
-# MOBILE APP
+# CRUD website
 ## Introduction 
 
-This is my practice with React Native with CRUD functions !!!
+This is a ReactJS user management website with CRUD functions !!!
 
-Based on the knowledge from ReactJS, I was trying to create a simple mobile application with some basic functions: \
-        • Add \
-        • Delete \
-        • Update \
+Based on the knowledge from ReactJS, I was trying to create a simple web application with some basic functions: \
+        • Add user \
+        • Delete existed user \
+        • Update existed user \
+        • Upload user's avatar \
+        • Display date and time
 ## Here is the demo !!
-![image](https://user-images.githubusercontent.com/101866057/210535656-692e500c-4913-42ed-9405-0ed8107dbb5a.png)
+![image](https://user-images.githubusercontent.com/101866057/210549233-96655782-c0c4-490b-97fe-45ab63c43ba2.png)
+
+
